@@ -1,0 +1,74 @@
+[
+  {
+    "firstname": "Abhijit",
+    "lastname": "Gadakh",
+    "username": "abhijitgadakh",
+    "email": "abhijitgadakh@gmail.com",
+    "password": "$2a$10$JN/E/lUiarMfgV.XXVpxMuqAas99WqHVv359cN7f88I3NFcIzvo7q",
+    "usertype": "admin"
+  },
+  {
+    "firstname": "Amit",
+    "lastname": "Sharma",
+    "username": "amitsharma",
+    "email": "amitsharma@gmail.com",
+    "password": "$2a$10$JN/E/lUiarMfgV.XXVpxMuqAas99WqHVv359cN7f88I3NFcIzvo7q",
+    "usertype": "gen"
+  },
+  {
+    "firstname": "Ravi",
+    "lastname": "Kumar",
+    "username": "ravikumar",
+    "email": "ravikumar@gmail.com",
+    "password": "$2a$10$JN/E/lUiarMfgV.XXVpxMuqAas99WqHVv359cN7f88I3NFcIzvo7q",
+    "usertype": "gen"
+  },
+  {
+    "firstname": "Pooja",
+    "lastname": "Reddy",
+    "username": "poojareddy",
+    "email": "poojareddy@gmail.com",
+    "password": "$2a$10$JN/E/lUiarMfgV.XXVpxMuqAas99WqHVv359cN7f88I3NFcIzvo7q",
+    "usertype": "gen"
+  },
+  {
+    "firstname": "Neha",
+    "lastname": "Verma",
+    "username": "nehaverma",
+    "email": "nehaverma@gmail.com",
+    "password": "$2a$10$JN/E/lUiarMfgV.XXVpxMuqAas99WqHVv359cN7f88I3NFcIzvo7q",
+    "usertype": "gen"
+  },
+  {
+    "firstname": "Sanya",
+    "lastname": "Kapoor",
+    "username": "sanyakapoor",
+    "email": "sanyakapoor@gmail.com",
+    "password": "$2a$10$JN/E/lUiarMfgV.XXVpxMuqAas99WqHVv359cN7f88I3NFcIzvo7q",
+    "usertype": "gen"
+  },
+  {
+    "firstname": "Varun",
+    "lastname": "Joshi",
+    "username": "varunjoshi",
+    "email": "varunjoshi@gmail.com",
+    "password": "$2a$10$JN/E/lUiarMfgV.XXVpxMuqAas99WqHVv359cN7f88I3NFcIzvo7q",
+    "usertype": "gen"
+  },
+  {
+    "firstname": "Meera",
+    "lastname": "Patel",
+    "username": "meerapatel",
+    "email": "meerapatel@gmail.com",
+    "password": "$2a$10$JN/E/lUiarMfgV.XXVpxMuqAas99WqHVv359cN7f88I3NFcIzvo7q",
+    "usertype": "gen"
+  },
+  {
+    "firstname": "Kunal",
+    "lastname": "Yadav",
+    "username": "kunalyadav",
+    "email": "kunalyadav@gmail.com",
+    "password": "$2a$10$JN/E/lUiarMfgV.XXVpxMuqAas99WqHVv359cN7f88I3NFcIzvo7q",
+    "usertype": "gen"
+  }
+]

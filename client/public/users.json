@@ -1,0 +1,386 @@
+[
+  {
+    "firstname": "Abhijit",
+    "lastname": "Gadakh",
+    "username": "abhijitgadakh",
+    "email": "abhijitgadakh@gmail.com",
+    "profile": {
+      "personal_information": {
+        "first_name": "Abhijit",
+        "last_name": "Gadakh",
+        "age": 35,
+        "gender": "Male",
+        "address": "2nd Floor, 99, 5th Cross Rd, 6th Block, Koramangala, Bengaluru, Karnataka 560095"
+      },
+      "contact_information": {
+        "email": "abhijitgadakh@gmail.com",
+        "phone_number": "+91 9922004856"
+      },
+      "bio": "I'm a recent graduate with a passion for data. I'm eager to learn data analysis techniques and build a strong foundation in this exciting field. I'm excited to explore the courses offered on Simplitrain and gain the necessary skills to kickstart my data analyst career.",
+      "preferred_language": ["English", "Hindi"],
+      "interested_topics": [
+        "Web Development",
+        "Mobile Development",
+        "Programming Languages",
+        "Leadership",
+        "Career Development",
+        "Digital Marketing"
+      ],
+      "social_media": ["linkedin", "twitter", "github"]
+    },
+    "education": [
+      {
+        "university": "Imperial College London",
+        "degree": "Masters in Marketing",
+        "graduationDate": "March 2020",
+        "duration": "March 2016 - June 2018"
+      },
+      {
+        "university": "MIT University",
+        "degree": "Bachelor’s degree in Engineering and Technology",
+        "graduationDate": "March 2020",
+        "duration": "March 2012 - June 2016"
+      }
+    ],
+    "work_experience": [
+      {
+        "organization": "Amazon",
+        "position": "Software engineer",
+        "start_date": "July 2018",
+        "end_date": "present"
+      }
+    ]
+  },
+  {
+    "firstname": "Amit",
+    "lastname": "Sharma",
+    "username": "amitsharma",
+    "email": "amitsharma@gmail.com",
+    "profile": {
+      "personal_information": {
+        "first_name": "Amit",
+        "last_name": "Sharma",
+        "age": 28,
+        "gender": "Male",
+        "address": "35, Green Street, Bangalore, Karnataka 560001"
+      },
+      "contact_information": {
+        "email": "amitsharma@gmail.com",
+        "phone_number": "+91 9876543210"
+      },
+      "bio": "A passionate developer with experience in web and mobile development. I am looking to work with emerging technologies and solve real-world problems.",
+      "preferred_language": ["English", "Hindi"],
+      "interested_topics": [
+        "Programming",
+        "Web Development",
+        "Mobile Development"
+      ],
+      "social_media": ["linkedin", "github"]
+    },
+    "education": [
+      {
+        "university": "IIT Bombay",
+        "degree": "B.Tech in Computer Science",
+        "graduationDate": "May 2017",
+        "duration": "August 2013 - May 2017"
+      }
+    ],
+    "work_experience": [
+      {
+        "organization": "Google",
+        "position": "Software Engineer",
+        "start_date": "August 2017",
+        "end_date": "present"
+      }
+    ]
+  },
+  {
+    "firstname": "Ravi",
+    "lastname": "Kumar",
+    "username": "ravikumar",
+    "email": "ravikumar@gmail.com",
+    "profile": {
+      "personal_information": {
+        "first_name": "Ravi",
+        "last_name": "Kumar",
+        "age": 30,
+        "gender": "Male",
+        "address": "12, MG Road, Delhi 110001"
+      },
+      "contact_information": {
+        "email": "ravikumar@gmail.com",
+        "phone_number": "+91 9812345678"
+      },
+      "bio": "Software architect with over 8 years of experience in building enterprise-level applications and leading teams of developers.",
+      "preferred_language": ["English", "Hindi"],
+      "interested_topics": ["Cloud Computing", "Big Data", "AI"],
+      "social_media": ["linkedin", "twitter"]
+    },
+    "education": [
+      {
+        "university": "University of Delhi",
+        "degree": "B.Tech in Information Technology",
+        "graduationDate": "May 2015",
+        "duration": "August 2011 - May 2015"
+      }
+    ],
+    "work_experience": [
+      {
+        "organization": "Microsoft",
+        "position": "Senior Software Engineer",
+        "start_date": "June 2015",
+        "end_date": "present"
+      }
+    ]
+  },
+  {
+    "firstname": "Pooja",
+    "lastname": "Reddy",
+    "username": "poojareddy",
+    "email": "poojareddy@gmail.com",
+    "profile": {
+      "personal_information": {
+        "first_name": "Pooja",
+        "last_name": "Reddy",
+        "age": 26,
+        "gender": "Female",
+        "address": "Block A, 3rd Floor, Banjara Hills, Hyderabad"
+      },
+      "contact_information": {
+        "email": "poojareddy@gmail.com",
+        "phone_number": "+91 9001122334"
+      },
+      "bio": "Web developer with a strong background in both frontend and backend development. Passionate about creating user-friendly websites and learning new technologies.",
+      "preferred_language": ["English", "Telugu"],
+      "interested_topics": ["Web Development", "React", "Node.js"],
+      "social_media": ["linkedin", "github"]
+    },
+    "education": [
+      {
+        "university": "Osmania University",
+        "degree": "B.Tech in Computer Science",
+        "graduationDate": "June 2018",
+        "duration": "August 2014 - June 2018"
+      }
+    ],
+    "work_experience": [
+      {
+        "organization": "Facebook",
+        "position": "Frontend Developer",
+        "start_date": "July 2018",
+        "end_date": "present"
+      }
+    ]
+  },
+  {
+    "firstname": "Neha",
+    "lastname": "Verma",
+    "username": "nehaverma",
+    "email": "nehaverma@gmail.com",
+    "profile": {
+      "personal_information": {
+        "first_name": "Neha",
+        "last_name": "Verma",
+        "age": 29,
+        "gender": "Female",
+        "address": "Sector 12, Chandigarh, Punjab"
+      },
+      "contact_information": {
+        "email": "nehaverma@gmail.com",
+        "phone_number": "+91 9988776655"
+      },
+      "bio": "Content strategist and digital marketer with expertise in SEO, PPC, and social media marketing. Passionate about leveraging data to drive marketing strategies.",
+      "preferred_language": ["English", "Hindi"],
+      "interested_topics": ["Digital Marketing", "SEO", "Content Strategy"],
+      "social_media": ["linkedin", "twitter"]
+    },
+    "education": [
+      {
+        "university": "Punjabi University",
+        "degree": "MBA in Marketing",
+        "graduationDate": "March 2017",
+        "duration": "July 2013 - March 2017"
+      }
+    ],
+    "work_experience": [
+      {
+        "organization": "HubSpot",
+        "position": "Digital Marketing Manager",
+        "start_date": "April 2017",
+        "end_date": "present"
+      }
+    ]
+  },
+  {
+    "firstname": "Sanya",
+    "lastname": "Kapoor",
+    "username": "sanyakapoor",
+    "email": "sanyakapoor@gmail.com",
+    "profile": {
+      "personal_information": {
+        "first_name": "Sanya",
+        "last_name": "Kapoor",
+        "age": 24,
+        "gender": "Female",
+        "address": "75, Juhu Lane, Mumbai"
+      },
+      "contact_information": {
+        "email": "sanyakapoor@gmail.com",
+        "phone_number": "+91 9500080002"
+      },
+      "bio": "Creative professional with a background in UX/UI design, seeking opportunities to apply my design thinking skills in a growth-oriented organization.",
+      "preferred_language": ["English", "Hindi"],
+      "interested_topics": [
+        "UX/UI Design",
+        "Product Design",
+        "Creative Strategy"
+      ],
+      "social_media": ["linkedin", "instagram"]
+    },
+    "education": [
+      {
+        "university": "NID Ahmedabad",
+        "degree": "Bachelor’s in Design",
+        "graduationDate": "May 2020",
+        "duration": "August 2016 - May 2020"
+      }
+    ],
+    "work_experience": [
+      {
+        "organization": "Adobe",
+        "position": "UX Designer",
+        "start_date": "June 2020",
+        "end_date": "present"
+      }
+    ]
+  },
+  {
+    "firstname": "Varun",
+    "lastname": "Joshi",
+    "username": "varunjoshi",
+    "email": "varunjoshi@gmail.com",
+    "profile": {
+      "personal_information": {
+        "first_name": "Varun",
+        "last_name": "Joshi",
+        "age": 31,
+        "gender": "Male",
+        "address": "Pune, Maharashtra"
+      },
+      "contact_information": {
+        "email": "varunjoshi@gmail.com",
+        "phone_number": "+91 9022334455"
+      },
+      "bio": "Experienced marketing professional with a passion for understanding consumer behavior and creating strategic marketing campaigns.",
+      "preferred_language": ["English", "Marathi"],
+      "interested_topics": [
+        "Marketing Strategy",
+        "Brand Management",
+        "Consumer Psychology"
+      ],
+      "social_media": ["linkedin", "twitter"]
+    },
+    "education": [
+      {
+        "university": "University of Pune",
+        "degree": "MBA in Marketing",
+        "graduationDate": "May 2017",
+        "duration": "August 2013 - May 2017"
+      }
+    ],
+    "work_experience": [
+      {
+        "organization": "Nike",
+        "position": "Marketing Manager",
+        "start_date": "June 2017",
+        "end_date": "present"
+      }
+    ]
+  },
+  {
+    "firstname": "Meera",
+    "lastname": "Patel",
+    "username": "meerapatel",
+    "email": "meerapatel@gmail.com",
+    "profile": {
+      "personal_information": {
+        "first_name": "Meera",
+        "last_name": "Patel",
+        "age": 32,
+        "gender": "Female",
+        "address": "Andheri West, Mumbai, Maharashtra"
+      },
+      "contact_information": {
+        "email": "meerapatel@gmail.com",
+        "phone_number": "+91 9222333444"
+      },
+      "bio": "Experienced product manager with a track record of successful product launches. Passionate about building user-centric products and collaborating with cross-functional teams.",
+      "preferred_language": ["English", "Gujarati"],
+      "interested_topics": [
+        "Product Management",
+        "Agile Methodology",
+        "Innovation"
+      ],
+      "social_media": ["linkedin", "twitter"]
+    },
+    "education": [
+      {
+        "university": "S.P. Jain Institute of Management and Research",
+        "degree": "PGDM",
+        "graduationDate": "March 2016",
+        "duration": "August 2014 - March 2016"
+      }
+    ],
+    "work_experience": [
+      {
+        "organization": "Flipkart",
+        "position": "Product Manager",
+        "start_date": "April 2016",
+        "end_date": "present"
+      }
+    ]
+  },
+  {
+    "firstname": "Kunal",
+    "lastname": "Yadav",
+    "username": "kunalyadav",
+    "email": "kunalyadav@gmail.com",
+    "profile": {
+      "personal_information": {
+        "first_name": "Kunal",
+        "last_name": "Yadav",
+        "age": 27,
+        "gender": "Male",
+        "address": "Noida, Uttar Pradesh"
+      },
+      "contact_information": {
+        "email": "kunalyadav@gmail.com",
+        "phone_number": "+91 8765432109"
+      },
+      "bio": "A data scientist with expertise in machine learning and AI. Seeking to apply analytical skills to help organizations make data-driven decisions.",
+      "preferred_language": ["English", "Hindi"],
+      "interested_topics": [
+        "Data Science",
+        "Machine Learning",
+        "Artificial Intelligence"
+      ],
+      "social_media": ["linkedin", "github"]
+    },
+    "education": [
+      {
+        "university": "University of Delhi",
+        "degree": "B.Tech in Computer Science",
+        "graduationDate": "May 2017",
+        "duration": "August 2013 - May 2017"
+      }
+    ],
+    "work_experience": [
+      {
+        "organization": "IBM",
+        "position": "Data Scientist",
+        "start_date": "July 2017",
+        "end_date": "present"
+      }
+    ]
+  }
+]
