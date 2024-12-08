@@ -1,6 +1,5 @@
 // src/api.js
-
-const API_BASE_URL = process.env.SERVER_PATH + "/api";
+const API_BASE_URL = import.meta.env.SERVER_PATH + "/api";
 
 // Function to handle login
 export const loginUser = async (email, password) => {
