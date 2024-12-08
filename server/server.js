@@ -21,7 +21,11 @@ app.use(
 
 // Connect to MongoDB
 mongoose
-  .connect(process.env.MONGO_URI)
+  .connect(
+    process.env.USE_MONGO_LOCAL
+      ? process.env.MONGO_URI
+      : process.env.MONGO_URISERVER
+  )
   .then(() => console.log("MongoDB connected"))
   .catch((err) => console.log(err));
 
