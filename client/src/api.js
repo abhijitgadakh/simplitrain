@@ -1,5 +1,7 @@
 // src/api.js
-const API_BASE_URL = import.meta.env.SERVER_PATH + "/api";
+// const API_BASE_URL = import.meta.env.SERVER_PATH + "/api";
+const API_BASE_URL = "https://simplitrainclient.vercel.app/api";
+console.log(API_BASE_URL);
 
 // Function to handle login
 export const loginUser = async (email, password) => {
