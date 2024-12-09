@@ -13,7 +13,7 @@ app.use(express.json());
 
 app.use(
   cors({
-    origin: process.env.CLIENT_PATH,
+    origin: "http://localhost:5173", // Allow requests from Vite's dev server
     methods: ["GET", "POST", "PUT", "DELETE"],
     credentials: true,
   })

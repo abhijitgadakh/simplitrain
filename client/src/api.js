@@ -1,6 +1,6 @@
 // src/api.js
 
-const API_BASE_URL = process.env.SERVER_PATH + "/api";
+const API_BASE_URL = "http://localhost:5000/api"; // Ensure this is pointing to your backend
 
 // Function to handle login
 export const loginUser = async (email, password) => {
