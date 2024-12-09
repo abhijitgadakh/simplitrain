@@ -1,21 +1,18 @@
 const express = require("express");
 const {
-  getUserProfile,
-  updateUserProfile,
   getAllUsers,
-  getSingleUser,
+  getUserById,
+  updateUser,
+  deleteUser,
 } = require("../controllers/userController");
-const {
-  authMiddleware,
-  adminMiddleware,
-} = require("../middleware/authMiddleware");
+const { protect } = require("../middleware/authMiddleware");
 
 const router = express.Router();
 
-router.get("/profile", authMiddleware, getUserProfile);
-router.put("/profile", authMiddleware, updateUserProfile);
-
-router.get("/", authMiddleware, adminMiddleware, getAllUsers);
-router.get("/:id", authMiddleware, adminMiddleware, getSingleUser);
+// Protected routes
+router.get("/", protect, getAllUsers); // Only admin can view all users
+router.get("/:id", protect, getUserById); // Any user can view their profile or admin can view any user's profile
+router.put("/:id", protect, updateUser); // Users can update their own data, admins can update anyone's data
+router.delete("/:id", protect, deleteUser); // Only admin can delete users
 
 module.exports = router;

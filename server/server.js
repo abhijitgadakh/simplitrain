@@ -1,31 +1,25 @@
 const express = require("express");
 const mongoose = require("mongoose");
 const dotenv = require("dotenv");
+const cors = require("cors");
 const authRoutes = require("./routes/authRoutes");
 const userRoutes = require("./routes/userRoutes");
-const cors = require("cors");
 
 dotenv.config();
 
 const app = express();
-app.use(cors());
-app.use(express.json());
-
 app.use(
   cors({
-    origin: "http://localhost:5173", // Allow requests from Vite's dev server
-    methods: ["GET", "POST", "PUT", "DELETE"],
-    credentials: true,
+    origin: "http://localhost:5173/", // Allow only requests from this domain
+    methods: ["GET", "POST"], // Allow only GET and POST methods
+    allowedHeaders: ["Content-Type"], // Allow only the Content-Type header
   })
 );
+app.use(express.json());
 
 // Connect to MongoDB
 mongoose
-  .connect(
-    process.env.USE_MONGO_LOCAL
-      ? process.env.MONGO_URI
-      : process.env.MONGO_URISERVER
-  )
+  .connect(process.env.MONGO_URI)
   .then(() => console.log("MongoDB connected"))
   .catch((err) => console.log(err));
 
